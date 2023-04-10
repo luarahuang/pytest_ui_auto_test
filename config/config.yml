@@ -1,0 +1,5 @@
+login_url: 'http://47.107.116.139/phpwind/'
+driver_type: Chrome # 浏览器驱动，谷歌（Chrome）、火狐（Firefox）
+loginuser:
+  username: 'hxxtest'
+  pwd: 'wyt120505'
