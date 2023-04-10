@@ -1,7 +1,0 @@
-INFO -2023-04-08 18:42:19,779 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
-INFO -2023-04-08 18:47:18,222 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
-INFO -2023-04-08 18:47:26,869 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
-INFO -2023-04-08 18:50:17,938 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
-INFO -2023-04-08 18:50:23,238 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
-INFO -2023-04-08 18:54:14,482 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
-INFO -2023-04-08 18:54:19,960 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
