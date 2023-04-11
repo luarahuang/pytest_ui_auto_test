@@ -23,11 +23,11 @@ class TestRun:
 
 
         #allure-report存放路径，生成时间目录
-        base_report_path = 'report/'
-        report_path = Path(base_report_path,'Report'+formattime("%Y%m%d-%H%M"))
+        # base_report_path = 'report/'
+        # report_path = Path(base_report_path,'Report'+formattime("%Y%m%d-%H%M"))
+        # if not os.path.exists(report_path):
+        #     os.makedirs(report_path)
 
-        if not os.path.exists(report_path):
-            os.makedirs(report_path)
 
         # 定义PyTest运行参数
         param_list = ["-s", "-v", "-rA", "--alluredir={}".format(allure_json),'--clean-alluredir']
@@ -43,9 +43,8 @@ class TestRun:
         if os.path.exists('categories.json'):
             shutil.copy('categories.json',os.path.join(allure_json,'categories.json'))
 
-        os.system("allure generate {} -o {} --clean".format(allure_json,report_path))
-        #os.system("allure open {}".format(report_path))
-        #os.system("allure serve {}".format(allure_json))
+        #生成allure报告
+        #os.system("allure generate {} -o {} --clean".format(allure_json,report_path))
 
 
 if __name__ == '__main__':
