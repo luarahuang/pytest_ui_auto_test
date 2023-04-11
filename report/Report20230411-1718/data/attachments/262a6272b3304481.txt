@@ -1,0 +1,21 @@
+[32mINFO    [0m root:conftest.py:36 ------ 打开浏览器并最大化------
+[32mINFO    [0m root:conftest.py:50 --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="346d6855-5e23-4d52-8270-549bd7135a4e")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="dbb3f047-7176-48ba-a97e-cf6c5da6f4bc")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：hxxtest
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="d638105c-5e20-44b3-aa7b-08f478fd5c14")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：wyt120505
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="20a589bc-c9f6-4cee-855e-6bd871e0b276")>元素
+[32mINFO    [0m root:conftest.py:54 ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="c75cbc38-407c-4e49-9247-f61ac8ee69e8")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="636d1a6b-3e4d-4232-b404-313374c67ef0")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="512027b2-3681-4a71-b8ec-27ce05577a3f")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="17580fdc-ec2a-4ab7-881c-99051a3364c3")>元素

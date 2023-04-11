@@ -1,0 +1,8 @@
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="5274a28b90ac14d42909df77101c5aba", element="f0b48f68-992c-4e78-abe8-097a89923ade")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="5274a28b90ac14d42909df77101c5aba", element="43036ffe-507d-4ad8-a25d-5d964a819a7c")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="5274a28b90ac14d42909df77101c5aba", element="127724f8-9d5f-489e-a628-f3a3aeb5c0aa")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="5274a28b90ac14d42909df77101c5aba", element="4e0e6256-1616-4bce-913c-dc0f62e4407a")>元素

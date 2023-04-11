@@ -12,6 +12,7 @@ post_body = '66666666'
 class TestNewPost:
     @allure.story('打开发帖界面')
     @allure.severity("normal")
+    @pytest.mark.webtest
     def test_new_post001(self,init_browser):
         new_post = NewPost(init_browser)
         new_post.open_new_post()
@@ -19,6 +20,7 @@ class TestNewPost:
 
     @allure.story('输入内容发帖')
     @allure.severity("normal")
+    @pytest.mark.webtest
     def test_newpost002(self,init_browser):
         new_post = NewPost(init_browser)
         new_post.new_post(post_title,post_body)

@@ -11,7 +11,7 @@ homepage_title = '本站新帖 - phpwind 9.0 - Powered by phpwind'
 @allure.feature('首页测试1')
 
 class TestCase001:
-    @pytest.mark.webtest
+    @pytest.mark.smoke
     @allure.story('首页搜索')
     @allure.severity("critical")
     @pytest.mark.parametrize('content',(1,2,3,4,5))
@@ -20,14 +20,14 @@ class TestCase001:
         hg_page.page_search(content)
         assert 1 == 1
 
-    @pytest.mark.webtest
+    @pytest.mark.function
     @allure.story('打开首页')
     @allure.severity("normal")
     def test_002(self):
         pass
         assert 1 == 2
 
-    @pytest.mark.smoke
+    @pytest.mark.webtest
     @pytest.mark.skip(reason="该功能暂未实现，跳过测试。")
     @allure.story('首页测试3')
     @allure.severity("normal")

@@ -1,0 +1,12 @@
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="6f1c36da-7265-49b9-a38e-bec91693869b")>元素
+INFO     root:base_page.py:54 输入的内容为：newpost666
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="d49de736-2bdc-40e7-a667-1eff5ce541ef")>元素
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="c328c07b-2813-4308-becd-e5a89f73eaa3")>元素
+INFO     root:base_page.py:54 输入的内容为：66666666
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="b6e847f4-f744-4402-bd8d-9788cce270d7")>元素
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="0379ef0d-be74-42f8-8319-440382fa62b4")>元素

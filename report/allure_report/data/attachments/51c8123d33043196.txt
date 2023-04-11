@@ -1,0 +1,12 @@
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="94936e7e-9689-416c-a473-c3d8a1165cb0")>元素
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="94936e7e-9689-416c-a473-c3d8a1165cb0")>元素
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="8c78c1ee-659a-4ec0-abd5-c2396d65c95b")>元素
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="8c78c1ee-659a-4ec0-abd5-c2396d65c95b")>元素
+INFO     root:base_page.py:54 输入的内容为：12345678
+INFO     root:base_page.py:33 等待xx元素出现
+INFO     root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="6668708d4ea805bfea08c782ee18973b", element="f55fafc6-b3b3-4105-bd2f-d774d9019c48")>元素
+INFO     root:conftest.py:42 ------- 所有用例执行完毕，关闭浏览器！---------
