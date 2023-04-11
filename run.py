@@ -14,7 +14,7 @@ from util.time import formattime
 class TestRun:
     def test_run_default(self):
         # 测试用例
-        case = ["/Users/luna/Documents/learning_python/testing/ui_phpwind/cases/"]
+        case = ["./cases/"]
 
         # allure-json存放路径
         allure_json = "result/"

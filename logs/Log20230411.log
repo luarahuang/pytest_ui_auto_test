@@ -7470,3 +7470,627 @@ INFO -2023-04-11 19:36:38,490 - conftest.py - conftest - init_browser - 42 -  --
 INFO -2023-04-11 19:36:38,490 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
 INFO -2023-04-11 19:36:38,490 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
 INFO -2023-04-11 19:36:38,490 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:26:42,062 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-11 20:26:45,445 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-11 20:26:45,470 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:45,470 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:45,478 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="2bdd8a52-1b87-4e7c-b8cd-d6f8d513ab7b")>元素
+INFO -2023-04-11 20:26:45,478 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="2bdd8a52-1b87-4e7c-b8cd-d6f8d513ab7b")>元素
+INFO -2023-04-11 20:26:45,909 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:45,909 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:45,918 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="24413547-4377-4d68-9a0c-42f29e3b38f9")>元素
+INFO -2023-04-11 20:26:45,918 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="24413547-4377-4d68-9a0c-42f29e3b38f9")>元素
+INFO -2023-04-11 20:26:45,983 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:26:45,983 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:26:45,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:45,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:46,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="99b62b57-b06b-4fe7-8be5-3937c7bc3640")>元素
+INFO -2023-04-11 20:26:46,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="99b62b57-b06b-4fe7-8be5-3937c7bc3640")>元素
+INFO -2023-04-11 20:26:46,060 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:26:46,060 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:26:46,077 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:46,077 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:46,083 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="b505e502-0e1d-44e2-ad24-3ed078f5cb8b")>元素
+INFO -2023-04-11 20:26:46,083 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="b505e502-0e1d-44e2-ad24-3ed078f5cb8b")>元素
+INFO -2023-04-11 20:26:48,134 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:26:48,134 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:26:48,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,491 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f09f64e7-cfc4-4cfb-8e12-b78541f804c7")>元素
+INFO -2023-04-11 20:26:48,491 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f09f64e7-cfc4-4cfb-8e12-b78541f804c7")>元素
+INFO -2023-04-11 20:26:48,491 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f09f64e7-cfc4-4cfb-8e12-b78541f804c7")>元素
+INFO -2023-04-11 20:26:48,737 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,737 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,737 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,743 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="b17218e7-ca14-409f-b942-0f2687d4eff5")>元素
+INFO -2023-04-11 20:26:48,743 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="b17218e7-ca14-409f-b942-0f2687d4eff5")>元素
+INFO -2023-04-11 20:26:48,743 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="b17218e7-ca14-409f-b942-0f2687d4eff5")>元素
+INFO -2023-04-11 20:26:48,793 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,793 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,793 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:48,799 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d2461e64-0eca-4518-ad8e-51e1a3672476")>元素
+INFO -2023-04-11 20:26:48,799 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d2461e64-0eca-4518-ad8e-51e1a3672476")>元素
+INFO -2023-04-11 20:26:48,799 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d2461e64-0eca-4518-ad8e-51e1a3672476")>元素
+INFO -2023-04-11 20:26:50,861 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:50,861 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:50,861 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:50,868 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="752be572-8d1f-4345-b7db-9af52206a0a0")>元素
+INFO -2023-04-11 20:26:50,868 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="752be572-8d1f-4345-b7db-9af52206a0a0")>元素
+INFO -2023-04-11 20:26:50,868 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="752be572-8d1f-4345-b7db-9af52206a0a0")>元素
+INFO -2023-04-11 20:26:53,646 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,646 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,646 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,646 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,656 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="e35b37c0-b109-47ed-9174-3be6a40692cc")>元素
+INFO -2023-04-11 20:26:53,656 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="e35b37c0-b109-47ed-9174-3be6a40692cc")>元素
+INFO -2023-04-11 20:26:53,656 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="e35b37c0-b109-47ed-9174-3be6a40692cc")>元素
+INFO -2023-04-11 20:26:53,656 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="e35b37c0-b109-47ed-9174-3be6a40692cc")>元素
+INFO -2023-04-11 20:26:53,739 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:26:53,739 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:26:53,739 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:26:53,739 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:26:53,768 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,768 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,768 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,768 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,779 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a7b35593-8a7f-44af-bf04-4f026f2c6f54")>元素
+INFO -2023-04-11 20:26:53,779 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a7b35593-8a7f-44af-bf04-4f026f2c6f54")>元素
+INFO -2023-04-11 20:26:53,779 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a7b35593-8a7f-44af-bf04-4f026f2c6f54")>元素
+INFO -2023-04-11 20:26:53,779 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a7b35593-8a7f-44af-bf04-4f026f2c6f54")>元素
+INFO -2023-04-11 20:26:53,844 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,844 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,844 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,844 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,851 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="ac88e311-344f-41c6-b905-8be6ee9c74d3")>元素
+INFO -2023-04-11 20:26:53,851 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="ac88e311-344f-41c6-b905-8be6ee9c74d3")>元素
+INFO -2023-04-11 20:26:53,851 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="ac88e311-344f-41c6-b905-8be6ee9c74d3")>元素
+INFO -2023-04-11 20:26:53,851 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="ac88e311-344f-41c6-b905-8be6ee9c74d3")>元素
+INFO -2023-04-11 20:26:53,923 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:26:53,923 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:26:53,923 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:26:53,923 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:26:53,980 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,980 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,980 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,980 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:53,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f4852022-88b1-45d8-816a-1bc43f353199")>元素
+INFO -2023-04-11 20:26:53,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f4852022-88b1-45d8-816a-1bc43f353199")>元素
+INFO -2023-04-11 20:26:53,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f4852022-88b1-45d8-816a-1bc43f353199")>元素
+INFO -2023-04-11 20:26:53,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="f4852022-88b1-45d8-816a-1bc43f353199")>元素
+INFO -2023-04-11 20:26:54,725 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,725 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,725 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,725 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,733 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a1318a87-8783-48e2-af3e-566221d5d5c1")>元素
+INFO -2023-04-11 20:26:54,733 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a1318a87-8783-48e2-af3e-566221d5d5c1")>元素
+INFO -2023-04-11 20:26:54,733 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a1318a87-8783-48e2-af3e-566221d5d5c1")>元素
+INFO -2023-04-11 20:26:54,733 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="a1318a87-8783-48e2-af3e-566221d5d5c1")>元素
+INFO -2023-04-11 20:26:54,935 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,935 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,935 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,935 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,935 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,941 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,941 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,941 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,941 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,941 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,968 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,968 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,968 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,968 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,968 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:54,974 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,974 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,974 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,974 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:54,974 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="1880dcf9-a5fe-4ad2-bdae-99cbf49d1284")>元素
+INFO -2023-04-11 20:26:57,264 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,264 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,264 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,264 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,264 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,271 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,271 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,271 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,271 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,271 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,284 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,284 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,284 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,284 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,284 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:57,289 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,289 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,289 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,289 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,289 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="07bb4014-4c27-465e-a211-01eb6a57155d")>元素
+INFO -2023-04-11 20:26:57,342 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:26:57,342 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:26:57,342 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:26:57,342 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:26:57,342 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:26:59,364 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:59,364 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:59,364 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:59,364 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:59,364 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:26:59,386 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d296da99-1695-4711-a436-8460015d3b47")>元素
+INFO -2023-04-11 20:26:59,386 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d296da99-1695-4711-a436-8460015d3b47")>元素
+INFO -2023-04-11 20:26:59,386 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d296da99-1695-4711-a436-8460015d3b47")>元素
+INFO -2023-04-11 20:26:59,386 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d296da99-1695-4711-a436-8460015d3b47")>元素
+INFO -2023-04-11 20:26:59,386 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="d495fc718b00837884f69888268a81f8", element="d296da99-1695-4711-a436-8460015d3b47")>元素
+INFO -2023-04-11 20:27:01,573 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:27:01,573 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:27:01,573 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:27:01,573 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:27:01,573 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:28:46,664 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-11 20:28:49,298 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-11 20:28:49,320 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,320 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,328 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="6d84d434-358d-424e-9924-c89baa4c6985")>元素
+INFO -2023-04-11 20:28:49,328 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="6d84d434-358d-424e-9924-c89baa4c6985")>元素
+INFO -2023-04-11 20:28:49,741 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,741 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,746 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="8e065cc0-1eb8-44a9-878f-35abdf1a2037")>元素
+INFO -2023-04-11 20:28:49,746 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="8e065cc0-1eb8-44a9-878f-35abdf1a2037")>元素
+INFO -2023-04-11 20:28:49,803 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:28:49,803 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:28:49,820 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,820 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,826 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="3ac16a99-e5da-4d94-947a-2c8a6ee9ff3a")>元素
+INFO -2023-04-11 20:28:49,826 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="3ac16a99-e5da-4d94-947a-2c8a6ee9ff3a")>元素
+INFO -2023-04-11 20:28:49,879 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:28:49,879 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:28:49,894 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,894 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:49,898 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="3ee45f1f-1d2a-4ed8-8b45-8b60ac0cc076")>元素
+INFO -2023-04-11 20:28:49,898 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="3ee45f1f-1d2a-4ed8-8b45-8b60ac0cc076")>元素
+INFO -2023-04-11 20:28:51,951 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:28:51,951 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:28:52,126 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,126 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,126 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,132 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="e8b74365-eed6-4709-8936-699f60c880ae")>元素
+INFO -2023-04-11 20:28:52,132 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="e8b74365-eed6-4709-8936-699f60c880ae")>元素
+INFO -2023-04-11 20:28:52,132 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="e8b74365-eed6-4709-8936-699f60c880ae")>元素
+INFO -2023-04-11 20:28:52,361 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,361 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,361 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,368 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="f7546ddb-6057-470a-9cdd-26d9d5082319")>元素
+INFO -2023-04-11 20:28:52,368 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="f7546ddb-6057-470a-9cdd-26d9d5082319")>元素
+INFO -2023-04-11 20:28:52,368 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="f7546ddb-6057-470a-9cdd-26d9d5082319")>元素
+INFO -2023-04-11 20:28:52,412 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,412 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,412 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:52,417 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="85124132-826d-4b00-bb34-0afe7a2d1ee9")>元素
+INFO -2023-04-11 20:28:52,417 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="85124132-826d-4b00-bb34-0afe7a2d1ee9")>元素
+INFO -2023-04-11 20:28:52,417 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="85124132-826d-4b00-bb34-0afe7a2d1ee9")>元素
+INFO -2023-04-11 20:28:54,476 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:54,476 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:54,476 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:54,483 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7a380603-ddf8-4596-8c0d-9d3e1e89c2fd")>元素
+INFO -2023-04-11 20:28:54,483 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7a380603-ddf8-4596-8c0d-9d3e1e89c2fd")>元素
+INFO -2023-04-11 20:28:54,483 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7a380603-ddf8-4596-8c0d-9d3e1e89c2fd")>元素
+INFO -2023-04-11 20:28:57,235 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,235 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,235 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,235 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,241 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="d851dca3-a59d-4cc4-98c1-47b216a5d428")>元素
+INFO -2023-04-11 20:28:57,241 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="d851dca3-a59d-4cc4-98c1-47b216a5d428")>元素
+INFO -2023-04-11 20:28:57,241 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="d851dca3-a59d-4cc4-98c1-47b216a5d428")>元素
+INFO -2023-04-11 20:28:57,241 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="d851dca3-a59d-4cc4-98c1-47b216a5d428")>元素
+INFO -2023-04-11 20:28:57,291 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:28:57,291 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:28:57,291 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:28:57,291 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:28:57,311 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,311 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,311 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,311 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,317 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="929e1b89-8ccd-4977-ab18-71489f41e9b7")>元素
+INFO -2023-04-11 20:28:57,317 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="929e1b89-8ccd-4977-ab18-71489f41e9b7")>元素
+INFO -2023-04-11 20:28:57,317 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="929e1b89-8ccd-4977-ab18-71489f41e9b7")>元素
+INFO -2023-04-11 20:28:57,317 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="929e1b89-8ccd-4977-ab18-71489f41e9b7")>元素
+INFO -2023-04-11 20:28:57,355 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,355 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,355 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,355 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,363 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="0075028d-8f86-4666-a192-144a38d1536e")>元素
+INFO -2023-04-11 20:28:57,363 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="0075028d-8f86-4666-a192-144a38d1536e")>元素
+INFO -2023-04-11 20:28:57,363 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="0075028d-8f86-4666-a192-144a38d1536e")>元素
+INFO -2023-04-11 20:28:57,363 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="0075028d-8f86-4666-a192-144a38d1536e")>元素
+INFO -2023-04-11 20:28:57,451 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:28:57,451 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:28:57,451 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:28:57,451 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:28:57,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,477 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:57,485 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="aa339934-4347-4f3a-9af3-1d4ab7cf485a")>元素
+INFO -2023-04-11 20:28:57,485 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="aa339934-4347-4f3a-9af3-1d4ab7cf485a")>元素
+INFO -2023-04-11 20:28:57,485 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="aa339934-4347-4f3a-9af3-1d4ab7cf485a")>元素
+INFO -2023-04-11 20:28:57,485 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="aa339934-4347-4f3a-9af3-1d4ab7cf485a")>元素
+INFO -2023-04-11 20:28:58,760 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,760 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,760 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,760 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,768 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ce622fbc-16b9-4046-81cb-a4f625bc4b94")>元素
+INFO -2023-04-11 20:28:58,768 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ce622fbc-16b9-4046-81cb-a4f625bc4b94")>元素
+INFO -2023-04-11 20:28:58,768 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ce622fbc-16b9-4046-81cb-a4f625bc4b94")>元素
+INFO -2023-04-11 20:28:58,768 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ce622fbc-16b9-4046-81cb-a4f625bc4b94")>元素
+INFO -2023-04-11 20:28:58,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:58,998 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,003 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:28:59,020 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,020 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,020 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,020 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:28:59,020 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="7af228fd-e55e-440d-9101-7920637a74a9")>元素
+INFO -2023-04-11 20:29:01,283 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,283 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,283 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,283 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,283 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,288 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,288 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,288 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,288 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,288 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,300 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,300 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,300 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,300 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,300 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:01,305 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,305 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,305 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,305 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,305 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="28b2cb7b-52b3-4e56-9830-322c6925d02a")>元素
+INFO -2023-04-11 20:29:01,359 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:29:01,359 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:29:01,359 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:29:01,359 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:29:01,359 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:29:03,390 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:03,390 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:03,390 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:03,390 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:03,390 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:29:03,397 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ad73b071-c0f2-40ac-b1b2-dacfa0cfd4db")>元素
+INFO -2023-04-11 20:29:03,397 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ad73b071-c0f2-40ac-b1b2-dacfa0cfd4db")>元素
+INFO -2023-04-11 20:29:03,397 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ad73b071-c0f2-40ac-b1b2-dacfa0cfd4db")>元素
+INFO -2023-04-11 20:29:03,397 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ad73b071-c0f2-40ac-b1b2-dacfa0cfd4db")>元素
+INFO -2023-04-11 20:29:03,397 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="4e4bb25d0c5b2d1d8cec9f082700a3f8", element="ad73b071-c0f2-40ac-b1b2-dacfa0cfd4db")>元素
+INFO -2023-04-11 20:29:05,440 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:29:05,440 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:29:05,440 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:29:05,440 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:29:05,440 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:30:45,490 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-11 20:30:47,977 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-11 20:30:48,002 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,002 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,009 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="df196906-f649-448b-bcb5-09cfabe63576")>元素
+INFO -2023-04-11 20:30:48,009 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="df196906-f649-448b-bcb5-09cfabe63576")>元素
+INFO -2023-04-11 20:30:48,423 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,423 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,428 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="084aecab-fadb-4da2-b8f4-3d8549e7eaa3")>元素
+INFO -2023-04-11 20:30:48,428 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="084aecab-fadb-4da2-b8f4-3d8549e7eaa3")>元素
+INFO -2023-04-11 20:30:48,479 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:30:48,479 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:30:48,494 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,494 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,501 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="01538a35-9e6c-4f65-acbf-86c0beeb5e8f")>元素
+INFO -2023-04-11 20:30:48,501 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="01538a35-9e6c-4f65-acbf-86c0beeb5e8f")>元素
+INFO -2023-04-11 20:30:48,558 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:30:48,558 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:30:48,573 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,573 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:48,578 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="2af0def5-8514-42fb-9485-b1101d18f58f")>元素
+INFO -2023-04-11 20:30:48,578 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="2af0def5-8514-42fb-9485-b1101d18f58f")>元素
+INFO -2023-04-11 20:30:50,639 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:30:50,639 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:30:50,825 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:50,825 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:50,825 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:50,834 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b9cc094b-d9c5-4b7a-9bad-ba0fac92e58e")>元素
+INFO -2023-04-11 20:30:50,834 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b9cc094b-d9c5-4b7a-9bad-ba0fac92e58e")>元素
+INFO -2023-04-11 20:30:50,834 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b9cc094b-d9c5-4b7a-9bad-ba0fac92e58e")>元素
+INFO -2023-04-11 20:30:51,077 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,077 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,077 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,085 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8d69187b-f9af-491c-9f23-9344b00f907c")>元素
+INFO -2023-04-11 20:30:51,085 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8d69187b-f9af-491c-9f23-9344b00f907c")>元素
+INFO -2023-04-11 20:30:51,085 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8d69187b-f9af-491c-9f23-9344b00f907c")>元素
+INFO -2023-04-11 20:30:51,124 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,124 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,124 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:51,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="04e152d1-459a-4722-a474-d2f8ad73c991")>元素
+INFO -2023-04-11 20:30:51,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="04e152d1-459a-4722-a474-d2f8ad73c991")>元素
+INFO -2023-04-11 20:30:51,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="04e152d1-459a-4722-a474-d2f8ad73c991")>元素
+INFO -2023-04-11 20:30:53,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:53,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:53,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:53,194 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a9948419-c81f-4db5-8994-5c1f264749a3")>元素
+INFO -2023-04-11 20:30:53,194 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a9948419-c81f-4db5-8994-5c1f264749a3")>元素
+INFO -2023-04-11 20:30:53,194 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a9948419-c81f-4db5-8994-5c1f264749a3")>元素
+INFO -2023-04-11 20:30:55,908 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,908 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,908 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,908 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,915 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="e90ab46d-f9bc-4d1b-b05c-535318b638d0")>元素
+INFO -2023-04-11 20:30:55,915 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="e90ab46d-f9bc-4d1b-b05c-535318b638d0")>元素
+INFO -2023-04-11 20:30:55,915 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="e90ab46d-f9bc-4d1b-b05c-535318b638d0")>元素
+INFO -2023-04-11 20:30:55,915 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="e90ab46d-f9bc-4d1b-b05c-535318b638d0")>元素
+INFO -2023-04-11 20:30:55,963 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:30:55,963 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:30:55,963 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:30:55,963 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:30:55,981 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,981 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,981 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,981 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:55,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a43f4b8a-a3a4-480b-a1ff-fe61c0420a93")>元素
+INFO -2023-04-11 20:30:55,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a43f4b8a-a3a4-480b-a1ff-fe61c0420a93")>元素
+INFO -2023-04-11 20:30:55,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a43f4b8a-a3a4-480b-a1ff-fe61c0420a93")>元素
+INFO -2023-04-11 20:30:55,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="a43f4b8a-a3a4-480b-a1ff-fe61c0420a93")>元素
+INFO -2023-04-11 20:30:56,025 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,025 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,025 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,025 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,031 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="9fbb751c-dd27-448d-9de0-5e59201dc7ec")>元素
+INFO -2023-04-11 20:30:56,031 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="9fbb751c-dd27-448d-9de0-5e59201dc7ec")>元素
+INFO -2023-04-11 20:30:56,031 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="9fbb751c-dd27-448d-9de0-5e59201dc7ec")>元素
+INFO -2023-04-11 20:30:56,031 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="9fbb751c-dd27-448d-9de0-5e59201dc7ec")>元素
+INFO -2023-04-11 20:30:56,090 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:30:56,090 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:30:56,090 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:30:56,090 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:30:56,117 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,117 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,117 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,117 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:56,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d3441ea5-55e0-4aa6-9eb7-9aeeb8bbe6b2")>元素
+INFO -2023-04-11 20:30:56,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d3441ea5-55e0-4aa6-9eb7-9aeeb8bbe6b2")>元素
+INFO -2023-04-11 20:30:56,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d3441ea5-55e0-4aa6-9eb7-9aeeb8bbe6b2")>元素
+INFO -2023-04-11 20:30:56,130 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d3441ea5-55e0-4aa6-9eb7-9aeeb8bbe6b2")>元素
+INFO -2023-04-11 20:30:57,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:57,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:57,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:57,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:57,808 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8638e14a-509d-49aa-a68b-78efb40e2e6f")>元素
+INFO -2023-04-11 20:30:57,808 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8638e14a-509d-49aa-a68b-78efb40e2e6f")>元素
+INFO -2023-04-11 20:30:57,808 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8638e14a-509d-49aa-a68b-78efb40e2e6f")>元素
+INFO -2023-04-11 20:30:57,808 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="8638e14a-509d-49aa-a68b-78efb40e2e6f")>元素
+INFO -2023-04-11 20:30:58,065 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,065 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,065 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,065 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,065 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,072 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,072 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,072 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,072 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,072 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,086 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,086 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,086 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,086 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,086 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:30:58,094 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,094 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,094 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,094 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:30:58,094 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="37b1ef02-90a8-4a04-9295-5b897419e13b")>元素
+INFO -2023-04-11 20:31:00,352 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,352 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,352 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,352 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,352 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,359 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,359 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,359 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,359 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,359 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,373 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,373 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,373 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,373 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,373 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:00,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="b3d712a2-2e8e-44ce-b446-475483c4ebde")>元素
+INFO -2023-04-11 20:31:00,456 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:00,456 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:00,456 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:00,456 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:00,456 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:02,481 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:02,481 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:02,481 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:02,481 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:02,481 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:02,488 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d485627f-8e86-48d1-b442-435ec5601524")>元素
+INFO -2023-04-11 20:31:02,488 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d485627f-8e86-48d1-b442-435ec5601524")>元素
+INFO -2023-04-11 20:31:02,488 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d485627f-8e86-48d1-b442-435ec5601524")>元素
+INFO -2023-04-11 20:31:02,488 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d485627f-8e86-48d1-b442-435ec5601524")>元素
+INFO -2023-04-11 20:31:02,488 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="bcf28047ba03b7c863f56b692a1ed712", element="d485627f-8e86-48d1-b442-435ec5601524")>元素
+INFO -2023-04-11 20:31:04,557 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:31:04,557 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:31:04,557 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:31:04,557 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:31:04,557 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:31:42,851 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-11 20:31:45,390 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-11 20:31:45,414 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,414 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,422 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="8ef73cbf-f421-4e97-a669-b8997046d98c")>元素
+INFO -2023-04-11 20:31:45,422 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="8ef73cbf-f421-4e97-a669-b8997046d98c")>元素
+INFO -2023-04-11 20:31:45,806 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,806 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,811 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="b1cc8d5c-f170-43ac-9c13-ac6b14c24f7c")>元素
+INFO -2023-04-11 20:31:45,811 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="b1cc8d5c-f170-43ac-9c13-ac6b14c24f7c")>元素
+INFO -2023-04-11 20:31:45,869 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:31:45,869 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-11 20:31:45,886 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,886 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,892 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="7deefad7-5121-4bf4-b3b2-07edd4315bf5")>元素
+INFO -2023-04-11 20:31:45,892 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="7deefad7-5121-4bf4-b3b2-07edd4315bf5")>元素
+INFO -2023-04-11 20:31:45,944 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:31:45,944 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-11 20:31:45,960 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,960 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:45,966 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d70d56ff-8912-4438-abfc-17088c089c21")>元素
+INFO -2023-04-11 20:31:45,966 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d70d56ff-8912-4438-abfc-17088c089c21")>元素
+INFO -2023-04-11 20:31:47,996 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:31:47,996 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-11 20:31:48,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,214 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="b247e1d8-079f-4dd0-9219-c03b8f7235f4")>元素
+INFO -2023-04-11 20:31:48,214 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="b247e1d8-079f-4dd0-9219-c03b8f7235f4")>元素
+INFO -2023-04-11 20:31:48,214 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="b247e1d8-079f-4dd0-9219-c03b8f7235f4")>元素
+INFO -2023-04-11 20:31:48,451 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,451 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,451 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,457 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="22b0e416-a6aa-463d-b56c-de232d632a18")>元素
+INFO -2023-04-11 20:31:48,457 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="22b0e416-a6aa-463d-b56c-de232d632a18")>元素
+INFO -2023-04-11 20:31:48,457 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="22b0e416-a6aa-463d-b56c-de232d632a18")>元素
+INFO -2023-04-11 20:31:48,499 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,499 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,499 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:48,505 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0d72fe45-83d9-4023-81fd-d617ac6e5f10")>元素
+INFO -2023-04-11 20:31:48,505 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0d72fe45-83d9-4023-81fd-d617ac6e5f10")>元素
+INFO -2023-04-11 20:31:48,505 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0d72fe45-83d9-4023-81fd-d617ac6e5f10")>元素
+INFO -2023-04-11 20:31:50,559 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:50,559 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:50,559 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:50,584 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="7d8cc1b7-8261-4dfc-9582-bbf63a77ad0c")>元素
+INFO -2023-04-11 20:31:50,584 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="7d8cc1b7-8261-4dfc-9582-bbf63a77ad0c")>元素
+INFO -2023-04-11 20:31:50,584 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="7d8cc1b7-8261-4dfc-9582-bbf63a77ad0c")>元素
+INFO -2023-04-11 20:31:53,172 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,172 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,172 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,172 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,178 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2bfdf8a3-dee6-4926-a8c0-4dfe9f57e0d2")>元素
+INFO -2023-04-11 20:31:53,178 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2bfdf8a3-dee6-4926-a8c0-4dfe9f57e0d2")>元素
+INFO -2023-04-11 20:31:53,178 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2bfdf8a3-dee6-4926-a8c0-4dfe9f57e0d2")>元素
+INFO -2023-04-11 20:31:53,178 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2bfdf8a3-dee6-4926-a8c0-4dfe9f57e0d2")>元素
+INFO -2023-04-11 20:31:53,204 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:31:53,204 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:31:53,204 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:31:53,204 - base_page.py - base_page - send_keys - 54 -  输入的内容为：newpost666
+INFO -2023-04-11 20:31:53,224 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,224 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,224 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,224 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,233 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="e99b5b60-72f6-4ba6-97d8-216e467a5cd1")>元素
+INFO -2023-04-11 20:31:53,233 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="e99b5b60-72f6-4ba6-97d8-216e467a5cd1")>元素
+INFO -2023-04-11 20:31:53,233 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="e99b5b60-72f6-4ba6-97d8-216e467a5cd1")>元素
+INFO -2023-04-11 20:31:53,233 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="e99b5b60-72f6-4ba6-97d8-216e467a5cd1")>元素
+INFO -2023-04-11 20:31:53,267 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,267 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,267 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,267 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,272 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="91c0a682-d66b-447a-bbb2-1ad1a531f92e")>元素
+INFO -2023-04-11 20:31:53,272 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="91c0a682-d66b-447a-bbb2-1ad1a531f92e")>元素
+INFO -2023-04-11 20:31:53,272 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="91c0a682-d66b-447a-bbb2-1ad1a531f92e")>元素
+INFO -2023-04-11 20:31:53,272 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="91c0a682-d66b-447a-bbb2-1ad1a531f92e")>元素
+INFO -2023-04-11 20:31:53,314 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:31:53,314 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:31:53,314 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:31:53,314 - base_page.py - base_page - send_keys - 54 -  输入的内容为：66666666
+INFO -2023-04-11 20:31:53,354 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,354 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,354 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,354 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,360 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d2f67772-a59e-4131-83df-b04804daeaba")>元素
+INFO -2023-04-11 20:31:53,360 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d2f67772-a59e-4131-83df-b04804daeaba")>元素
+INFO -2023-04-11 20:31:53,360 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d2f67772-a59e-4131-83df-b04804daeaba")>元素
+INFO -2023-04-11 20:31:53,360 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="d2f67772-a59e-4131-83df-b04804daeaba")>元素
+INFO -2023-04-11 20:31:53,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:53,991 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="bdf9927c-9f26-4910-90f4-472b1dd1d596")>元素
+INFO -2023-04-11 20:31:53,991 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="bdf9927c-9f26-4910-90f4-472b1dd1d596")>元素
+INFO -2023-04-11 20:31:53,991 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="bdf9927c-9f26-4910-90f4-472b1dd1d596")>元素
+INFO -2023-04-11 20:31:53,991 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="bdf9927c-9f26-4910-90f4-472b1dd1d596")>元素
+INFO -2023-04-11 20:31:54,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,186 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,191 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,191 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,191 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,191 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,191 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,202 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:54,207 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,207 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,207 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,207 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:54,207 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="2a8bd275-81fa-4c21-afc0-21664d7ca72a")>元素
+INFO -2023-04-11 20:31:56,443 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,443 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,443 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,443 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,443 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,450 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,450 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,450 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,450 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,450 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,463 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,463 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,463 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,463 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,463 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:56,468 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,468 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,468 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,468 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,468 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="0175f0d7-b51a-44cb-9a9a-74d56421df84")>元素
+INFO -2023-04-11 20:31:56,571 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:56,571 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:56,571 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:56,571 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:56,571 - base_page.py - base_page - send_keys - 54 -  输入的内容为：12345678
+INFO -2023-04-11 20:31:58,602 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:58,602 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:58,602 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:58,602 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:58,602 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-11 20:31:58,609 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="60165791-f9fe-468d-bf50-c70e2c327059")>元素
+INFO -2023-04-11 20:31:58,609 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="60165791-f9fe-468d-bf50-c70e2c327059")>元素
+INFO -2023-04-11 20:31:58,609 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="60165791-f9fe-468d-bf50-c70e2c327059")>元素
+INFO -2023-04-11 20:31:58,609 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="60165791-f9fe-468d-bf50-c70e2c327059")>元素
+INFO -2023-04-11 20:31:58,609 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="3a7a18462790ab9c4bf8e16b7d106965", element="60165791-f9fe-468d-bf50-c70e2c327059")>元素
+INFO -2023-04-11 20:32:00,665 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:32:00,665 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:32:00,665 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:32:00,665 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-11 20:32:00,665 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
