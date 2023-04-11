@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:35 ------ 打开浏览器并最大化------
+[32mINFO    [0m root:conftest.py:49 --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="68f2e8431a093b7697e0f3de7c22ec45", element="fde800f9-f310-4b1b-b56c-39c5078dccbc")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="68f2e8431a093b7697e0f3de7c22ec45", element="e9b52a92-167c-4a59-8192-7edbb52ce629")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：hxxtest
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="68f2e8431a093b7697e0f3de7c22ec45", element="46f686b2-dee7-4ed0-aec2-0f68611dd60b")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：wyt120505
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="68f2e8431a093b7697e0f3de7c22ec45", element="00ff3363-ca1f-400b-9084-8ce726dbdcfa")>元素
+[32mINFO    [0m root:conftest.py:53 ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="68f2e8431a093b7697e0f3de7c22ec45", element="06f194be-d02c-462d-b563-f9d24805ce98")>元素

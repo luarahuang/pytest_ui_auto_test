@@ -1,5 +1,5 @@
-import sys
-sys.path.append('/Users/luna/Documents/learning_python/testing/ui_phpwind')
+# import sys
+# sys.path.append('/Users/luna/Documents/learning_python/testing/ui_phpwind')
 import logging
 import os
 from pathlib import Path
