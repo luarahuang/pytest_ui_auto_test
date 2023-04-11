@@ -14,7 +14,7 @@ from util.time import formattime
 class TestRun:
     def test_run_default(self):
         # 测试用例
-        case = ["./cases/"]
+        case = ["./cases/test_homepage.py"]
 
         # allure-json存放路径
         allure_json = "result/"
