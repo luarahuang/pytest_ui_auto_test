@@ -1,4 +1,4 @@
-/logs
-/report
-/result
-/allure-report
+# /logs
+# /report
+# /result
+# /allure-report

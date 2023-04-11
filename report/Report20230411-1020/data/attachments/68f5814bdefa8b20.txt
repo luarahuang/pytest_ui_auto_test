@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="900f35fb425b170eeeb20291218e3b2c", element="3055b288-6561-4f75-92ce-70b2c5bd0ffb")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="900f35fb425b170eeeb20291218e3b2c", element="3055b288-6561-4f75-92ce-70b2c5bd0ffb")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="900f35fb425b170eeeb20291218e3b2c", element="8f836599-8c80-4963-8c5d-b5aeafb8545d")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="900f35fb425b170eeeb20291218e3b2c", element="8f836599-8c80-4963-8c5d-b5aeafb8545d")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：12345678
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="900f35fb425b170eeeb20291218e3b2c", element="32a896ef-dd44-44a7-8851-1f492be4e24e")>元素
+[32mINFO    [0m root:conftest.py:42 ------- 所有用例执行完毕，关闭浏览器！---------

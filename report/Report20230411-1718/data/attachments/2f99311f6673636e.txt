@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="642cb906-0b6e-4461-af9f-e74eefd57721")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：newpost666
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="0d94df7c-3964-4e36-8f49-71726e436a6e")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="dafde0c1-9065-4fe1-a9d9-0dae55b3b848")>元素
+[32mINFO    [0m root:base_page.py:54 输入的内容为：66666666
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="1d3608dc-b0c0-4a06-9abe-0f5b5afae29f")>元素
+[32mINFO    [0m root:base_page.py:33 等待xx元素出现
+[32mINFO    [0m root:base_page.py:43 定位到了<selenium.webdriver.remote.webelement.WebElement (session="13f19dc97e168475354228d9d85bd526", element="933a5a4f-88a1-4c0f-8d17-942c0a392cba")>元素
