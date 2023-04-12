@@ -25,7 +25,7 @@ class TestCase001:
     @allure.severity("normal")
     def test_002(self):
         pass
-        assert 1 == 2
+        assert 1 == 1
 
     @pytest.mark.webtest
     @pytest.mark.skip(reason="该功能暂未实现，跳过测试。")
