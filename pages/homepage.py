@@ -1,3 +1,4 @@
+print(__name__)
 import sys
 sys.path.append('/Users/luna/Documents/learning_python/testing/ui_phpwind')
 from basepage.base_page import BasePage

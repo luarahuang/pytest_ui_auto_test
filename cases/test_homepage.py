@@ -43,5 +43,5 @@ class TestCase001:
         assert 1 == 2
         
 if __name__ == '__main__':
-    pytest.main(['-v','./cases/'])
+    pytest.main(['-v','./cases/test_homepage.py'])
     

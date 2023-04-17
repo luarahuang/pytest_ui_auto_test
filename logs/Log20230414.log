@@ -1,0 +1,292 @@
+INFO -2023-04-14 11:11:20,579 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:11:25,954 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:11:25,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:25,983 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:25,990 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="e51c5c04-0b9b-4c69-a3b5-fabc19683be3")>元素
+INFO -2023-04-14 11:11:25,990 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="e51c5c04-0b9b-4c69-a3b5-fabc19683be3")>元素
+INFO -2023-04-14 11:11:26,363 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,363 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,367 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="b8b43282-5ad4-4e83-b037-fbb52303b2a7")>元素
+INFO -2023-04-14 11:11:26,367 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="b8b43282-5ad4-4e83-b037-fbb52303b2a7")>元素
+INFO -2023-04-14 11:11:26,443 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:11:26,443 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:11:26,457 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,457 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,462 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="26f7714c-3777-417e-a8ed-8aafe89de77d")>元素
+INFO -2023-04-14 11:11:26,462 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="26f7714c-3777-417e-a8ed-8aafe89de77d")>元素
+INFO -2023-04-14 11:11:26,515 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:11:26,515 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:11:26,532 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,532 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:26,537 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="ae713c68-c34a-4eec-9d72-7a60d776f241")>元素
+INFO -2023-04-14 11:11:26,537 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="ae713c68-c34a-4eec-9d72-7a60d776f241")>元素
+INFO -2023-04-14 11:11:28,594 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:11:28,594 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:11:28,967 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,967 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,967 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,972 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:28,972 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:28,972 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:28,982 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,982 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,982 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:11:28,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:28,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:28,986 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="dfd105f7648ab41ebbeb96723999a39f", element="c07f9ac2-f91b-4ac4-b5a8-3a9a261e50ba")>元素
+INFO -2023-04-14 11:11:30,879 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:11:30,879 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:11:30,879 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+WARNING -2023-04-14 11:11:30,901 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d87cc70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,901 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d87cc70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,901 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d87cc70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,941 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad8790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,941 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad8790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,941 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad8790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,955 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad83d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,955 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad83d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+WARNING -2023-04-14 11:11:30,955 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dad83d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dfd105f7648ab41ebbeb96723999a39f
+INFO -2023-04-14 11:12:30,649 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:12:33,177 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:12:33,205 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,205 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,211 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="b247e11b-8a46-457a-bbce-c9b24b8f936a")>元素
+INFO -2023-04-14 11:12:33,211 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="b247e11b-8a46-457a-bbce-c9b24b8f936a")>元素
+INFO -2023-04-14 11:12:33,471 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,471 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,476 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="1df54bef-6baf-4a8f-9efa-86721d28faf3")>元素
+INFO -2023-04-14 11:12:33,476 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="1df54bef-6baf-4a8f-9efa-86721d28faf3")>元素
+INFO -2023-04-14 11:12:33,594 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:12:33,594 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:12:33,613 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,613 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,620 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="a35d263d-2244-4d54-a505-b96110daa2d8")>元素
+INFO -2023-04-14 11:12:33,620 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="a35d263d-2244-4d54-a505-b96110daa2d8")>元素
+INFO -2023-04-14 11:12:33,675 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:12:33,675 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:12:33,693 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,693 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:33,698 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="e2858986-1cab-4775-9e6f-2abe81cb62a8")>元素
+INFO -2023-04-14 11:12:33,698 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="e2858986-1cab-4775-9e6f-2abe81cb62a8")>元素
+INFO -2023-04-14 11:12:35,760 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:12:35,760 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:12:36,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:36,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:36,014 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:36,019 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="0d8a509b-a9db-42c8-a935-188f16fa37b0")>元素
+INFO -2023-04-14 11:12:36,019 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="0d8a509b-a9db-42c8-a935-188f16fa37b0")>元素
+INFO -2023-04-14 11:12:36,019 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="b810ddbddaafa13bb89487b79d77351e", element="0d8a509b-a9db-42c8-a935-188f16fa37b0")>元素
+INFO -2023-04-14 11:12:37,628 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:12:37,628 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:12:37,628 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+WARNING -2023-04-14 11:12:37,632 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,632 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,632 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,636 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,636 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,636 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e32a40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,669 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e328f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,669 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e328f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+WARNING -2023-04-14 11:12:37,669 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e328f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b810ddbddaafa13bb89487b79d77351e
+INFO -2023-04-14 11:12:47,194 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:12:49,391 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:12:49,415 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,415 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,420 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="77b23d1f-c191-4617-be02-70540ef780ce")>元素
+INFO -2023-04-14 11:12:49,420 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="77b23d1f-c191-4617-be02-70540ef780ce")>元素
+INFO -2023-04-14 11:12:49,756 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,756 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,764 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="8870a1c0-b476-474d-b76e-cceb5760253f")>元素
+INFO -2023-04-14 11:12:49,764 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="8870a1c0-b476-474d-b76e-cceb5760253f")>元素
+INFO -2023-04-14 11:12:49,832 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:12:49,832 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:12:49,850 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,850 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,856 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="33dede83-9faa-4a86-9670-31ea9139316e")>元素
+INFO -2023-04-14 11:12:49,856 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="33dede83-9faa-4a86-9670-31ea9139316e")>元素
+INFO -2023-04-14 11:12:49,914 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:12:49,914 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:12:49,929 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,929 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:49,935 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="c24319a3-4c6a-4bfb-8ae2-5dd6cbddc4ed")>元素
+INFO -2023-04-14 11:12:49,935 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="c24319a3-4c6a-4bfb-8ae2-5dd6cbddc4ed")>元素
+INFO -2023-04-14 11:12:51,988 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:12:51,988 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:12:52,206 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:52,206 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:52,206 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:12:52,212 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="8b42a2c6-3e8e-4073-9f35-fa1373f43974")>元素
+INFO -2023-04-14 11:12:52,212 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="8b42a2c6-3e8e-4073-9f35-fa1373f43974")>元素
+INFO -2023-04-14 11:12:52,212 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="0383852cd0bc6a05094f00a1be022a4d", element="8b42a2c6-3e8e-4073-9f35-fa1373f43974")>元素
+ERROR -2023-04-14 11:12:58,318 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:12:58,318 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:12:58,318 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:12:58,318 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:00,952 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:00,952 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:00,952 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:00,952 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:00,952 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:03,533 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:13:06,087 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:13:06,123 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:14,449 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:14:16,632 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:14:16,652 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:16,652 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:16,657 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="ab508765-1900-4efd-a1b2-9dd50baae9a3")>元素
+INFO -2023-04-14 11:14:16,657 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="ab508765-1900-4efd-a1b2-9dd50baae9a3")>元素
+INFO -2023-04-14 11:14:16,997 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:16,997 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:17,002 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="28843f3b-e4d7-4939-8872-3f6c8277ed2a")>元素
+INFO -2023-04-14 11:14:17,002 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="28843f3b-e4d7-4939-8872-3f6c8277ed2a")>元素
+INFO -2023-04-14 11:14:17,050 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:14:17,050 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:14:17,066 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:17,066 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:17,071 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="3297a889-6aa2-48ab-bdb6-223034cd74f2")>元素
+INFO -2023-04-14 11:14:17,071 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="3297a889-6aa2-48ab-bdb6-223034cd74f2")>元素
+INFO -2023-04-14 11:14:17,119 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:14:17,119 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:14:17,134 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:17,134 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:17,139 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="4b8d415c-4196-4917-87dd-4fb15525b4e1")>元素
+INFO -2023-04-14 11:14:17,139 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="4b8d415c-4196-4917-87dd-4fb15525b4e1")>元素
+INFO -2023-04-14 11:14:19,168 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:14:19,168 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:14:19,407 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:19,407 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:19,407 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:14:19,414 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="df471f1c-6036-496d-ab5a-98ed0921cea5")>元素
+INFO -2023-04-14 11:14:19,414 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="df471f1c-6036-496d-ab5a-98ed0921cea5")>元素
+INFO -2023-04-14 11:14:19,414 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="43e996e9c204f43f4cb90806923227a6", element="df471f1c-6036-496d-ab5a-98ed0921cea5")>元素
+ERROR -2023-04-14 11:14:28,660 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:28,660 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:28,660 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:28,660 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:31,243 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:31,243 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:31,243 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:31,243 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:31,243 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:33,814 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+ERROR -2023-04-14 11:14:36,350 - base_page.py - base_page - wait_ele_visible - 35 -  无法找到xx元素
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:14:36,378 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:16:07,581 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:16:09,825 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:16:09,847 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:09,847 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:09,853 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="692b1406-5abf-4e7e-b200-278a8936109f")>元素
+INFO -2023-04-14 11:16:09,853 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="692b1406-5abf-4e7e-b200-278a8936109f")>元素
+INFO -2023-04-14 11:16:10,244 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,244 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,249 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="9cd1cf6a-1f93-4fc5-b94f-25052e178aae")>元素
+INFO -2023-04-14 11:16:10,249 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="9cd1cf6a-1f93-4fc5-b94f-25052e178aae")>元素
+INFO -2023-04-14 11:16:10,295 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:16:10,295 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:16:10,310 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,310 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,314 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="46cf9141-eab1-4dd2-9bad-eee5d799f89d")>元素
+INFO -2023-04-14 11:16:10,314 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="46cf9141-eab1-4dd2-9bad-eee5d799f89d")>元素
+INFO -2023-04-14 11:16:10,361 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:16:10,361 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:16:10,375 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,375 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:10,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="8420ca75-61a5-4053-9ddd-757d8538127e")>元素
+INFO -2023-04-14 11:16:10,379 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="8420ca75-61a5-4053-9ddd-757d8538127e")>元素
+INFO -2023-04-14 11:16:12,407 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:16:12,407 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:16:12,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:12,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:12,801 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:16:12,809 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="f5f53615-17ec-49c5-92fe-638922647382")>元素
+INFO -2023-04-14 11:16:12,809 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="f5f53615-17ec-49c5-92fe-638922647382")>元素
+INFO -2023-04-14 11:16:12,809 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="5e17b1722fc54e2523b9b21ce03ce52f", element="f5f53615-17ec-49c5-92fe-638922647382")>元素
+INFO -2023-04-14 11:16:15,919 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:16:15,919 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:16:15,919 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+WARNING -2023-04-14 11:16:15,920 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494eb30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,920 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494eb30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,920 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494eb30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,922 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494dd80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,922 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494dd80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,922 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494dd80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,923 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494da80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,923 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494da80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+WARNING -2023-04-14 11:16:15,923 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10494da80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e17b1722fc54e2523b9b21ce03ce52f
+INFO -2023-04-14 11:16:57,967 - conftest.py - conftest - init_browser - 36 -  ------ 打开浏览器并最大化------
+INFO -2023-04-14 11:17:00,609 - conftest.py - conftest - open_homepage_and_login - 50 -  --------- 打开网页首页：http://47.107.116.139/phpwind/ ----------
+INFO -2023-04-14 11:17:00,630 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,630 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,636 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="48b45800-401b-4d06-989f-0f3b2b417630")>元素
+INFO -2023-04-14 11:17:00,636 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="48b45800-401b-4d06-989f-0f3b2b417630")>元素
+INFO -2023-04-14 11:17:00,891 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,891 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,896 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="78c18c33-27a2-4b4e-a648-4f585da3ee98")>元素
+INFO -2023-04-14 11:17:00,896 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="78c18c33-27a2-4b4e-a648-4f585da3ee98")>元素
+INFO -2023-04-14 11:17:00,950 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:17:00,950 - base_page.py - base_page - send_keys - 54 -  输入的内容为：hxxtest
+INFO -2023-04-14 11:17:00,964 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,964 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:00,969 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="50a657ec-1c5d-40ad-8701-5e72a87c0a03")>元素
+INFO -2023-04-14 11:17:00,969 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="50a657ec-1c5d-40ad-8701-5e72a87c0a03")>元素
+INFO -2023-04-14 11:17:01,015 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:17:01,015 - base_page.py - base_page - send_keys - 54 -  输入的内容为：wyt120505
+INFO -2023-04-14 11:17:01,029 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:01,029 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:01,033 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="1bae681e-c332-49e2-9fb8-2d4462cddc69")>元素
+INFO -2023-04-14 11:17:01,033 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="1bae681e-c332-49e2-9fb8-2d4462cddc69")>元素
+INFO -2023-04-14 11:17:03,083 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:17:03,083 - conftest.py - conftest - open_homepage_and_login - 54 -  ------ 登录成功，用户：hxxtest,密码：wyt120505 --------
+INFO -2023-04-14 11:17:03,274 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:03,274 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:03,274 - base_page.py - base_page - wait_ele_visible - 33 -  等待xx元素出现
+INFO -2023-04-14 11:17:03,279 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="9aa5415b-f959-48dd-a864-4d898c21b92b")>元素
+INFO -2023-04-14 11:17:03,279 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="9aa5415b-f959-48dd-a864-4d898c21b92b")>元素
+INFO -2023-04-14 11:17:03,279 - base_page.py - base_page - find_ele - 43 -  定位到了<selenium.webdriver.remote.webelement.WebElement (session="18613f37d9337a42f03b99a4f10416c8", element="9aa5415b-f959-48dd-a864-4d898c21b92b")>元素
+INFO -2023-04-14 11:17:04,888 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:17:04,888 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+INFO -2023-04-14 11:17:04,888 - conftest.py - conftest - init_browser - 42 -  ------- 所有用例执行完毕，关闭浏览器！---------
+WARNING -2023-04-14 11:17:04,890 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1121017e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,890 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1121017e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,890 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1121017e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,891 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,891 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,891 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,892 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,892 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
+WARNING -2023-04-14 11:17:04,892 - connectionpool.py - connectionpool - urlopen - 812 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x112103790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/18613f37d9337a42f03b99a4f10416c8
